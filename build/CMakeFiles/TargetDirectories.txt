@@ -1,0 +1,3 @@
+/home/darren/Documents/Projects/C++Projects/inventoryManagement/build/CMakeFiles/inventory_app.dir
+/home/darren/Documents/Projects/C++Projects/inventoryManagement/build/CMakeFiles/edit_cache.dir
+/home/darren/Documents/Projects/C++Projects/inventoryManagement/build/CMakeFiles/rebuild_cache.dir
